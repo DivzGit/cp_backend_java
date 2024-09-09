@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "668e574bb9eeaf58f50ea1ba"
+  },
+  "name": "divya priya",
+  "employeeId": "120001",
+  "email": "dp@hepl.com",
+  "phoneNumber": 1212212112,
+  "roleId": "6673ca3ce201f92332334a04",
+  "organizationId": "6673b221ff5c7359f27b3147",
+  "roleSet": [
+    "6673ca3ce201f92332334a04"
+  ],
+  "organizationSet": [
+    "6673b221ff5c7359f27b3147"
+  ],
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-10T09:41:31.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T11:57:52.434Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User",
+  "password": "$2a$10$7HTYYmH8CKY.Qptva3xZq..nW39RqPeqK0MiH6AXoyDocCQAdqmh2"
+},
+{
+  "_id": {
+    "$oid": "668e7375af9c8c30972da949"
+  },
+  "name": "vennila",
+  "employeeId": "NTS0033",
+  "email": "vennila.j@hepl.com",
+  "password": "$2a$10$7HTYYmH8CKY.Qptva3xZq..nW39RqPeqK0MiH6AXoyDocCQAdqmh2",
+  "phoneNumber": {
+    "$numberLong": "7584758445"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-10T11:41:41.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T11:41:41.779Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User",
+  " employeeId": "42"
+},
+{
+  "_id": {
+    "$oid": "668e7773d2873777c0b930c5"
+  },
+  "name": "vicky",
+  "employeeId": "95632",
+  "email": "vicky@hepl.com",
+  "phoneNumber": {
+    "$numberLong": "9865321478"
+  },
+  "roleId": "6673ca3ce201f92332334a04",
+  "organizationId": "6673b221ff5c7359f27b3147",
+  "roleSet": [
+    "6673ca3ce201f92332334a04"
+  ],
+  "organizationSet": [
+    "6673b221ff5c7359f27b3147"
+  ],
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-07-10T11:58:43.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:11:23.868Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User",
+  "password": "$2a$10$7HTYYmH8CKY.Qptva3xZq..nW39RqPeqK0MiH6AXoyDocCQAdqmh2"
+},
+{
+  "_id": {
+    "$oid": "668f625191832967cd1a8d2f"
+  },
+  "name": "deepa",
+  "employeeId": "420716104010",
+  "email": "deepa.r@hepl.com",
+  "phoneNumber": 1825384556,
+  "roleId": "6673ca3ce201f92332334a04",
+  "organizationId": "6673b221ff5c7359f27b3147",
+  "roleSet": [
+    "6673ca3ce201f92332334a04"
+  ],
+  "organizationSet": [
+    "6673b221ff5c7359f27b3147"
+  ],
+  "status": 0,
+  "createdAt": {
+    "$date": "2024-07-11T04:40:49.154Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T04:43:05.550Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "668fda7a7651ff56b61a435d"
+  },
+  "name": "deepa",
+  "employeeId": "420716104010",
+  "email": "deepa.r@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7562007582"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-11T13:13:30.846Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T13:13:30.846Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694af338109db384c99fda9"
+  },
+  "name": "keerthana",
+  "employeeId": "7846",
+  "email": "keerthana@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:10:11.696Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:10:11.696Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694b09e8109db384c99fdab"
+  },
+  "name": "keerthana",
+  "employeeId": "7846",
+  "email": "keerthana@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:16:14.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:16:14.208Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694b0a28109db384c99fdac"
+  },
+  "name": "keerthana",
+  "employeeId": "7846",
+  "email": "keerthana@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:16:18.840Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:16:18.840Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694b1138109db384c99fdad"
+  },
+  "name": "keerthana",
+  "employeeId": "7846",
+  "email": "keerthana@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:18:11.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:18:11.160Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694b12e8109db384c99fdae"
+  },
+  "name": "keerthana",
+  "employeeId": "7846",
+  "email": "keerthana@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:18:38.516Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:18:38.516Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694b845b951df4dd465e502"
+  },
+  "name": "rahim",
+  "employeeId": "784512",
+  "email": "rahim@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T05:48:53.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T05:48:53.626Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694e4bcd1afbd3be2dc763d"
+  },
+  "name": "reena",
+  "employeeId": "784512",
+  "email": "reena@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T08:58:36.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T08:58:36.700Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694e4d8d1afbd3be2dc763e"
+  },
+  "name": "suji",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T08:59:04.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T08:59:04.493Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694eb0fb21a63567f81aaa5"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:25:35.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:25:35.707Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694eb4bb21a63567f81aaa7"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:26:35.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:26:35.150Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694ec28b21a63567f81aaa8"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:30:16.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:30:16.333Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694ec2fb21a63567f81aaa9"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:30:23.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:30:23.456Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694ecba9991714f120e471b"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:32:42.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:32:42.410Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6694ed369991714f120e471d"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T09:34:46.672Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T09:34:46.672Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6695058f07d686030c5cee1f"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T11:18:39.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:18:39.692Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+},
+{
+  "_id": {
+    "$oid": "6695086707d686030c5cee21"
+  },
+  "name": "suji1",
+  "employeeId": "784512",
+  "email": "suji@hepl.com",
+  "password": "123",
+  "phoneNumber": {
+    "$numberLong": "7451566954"
+  },
+  "status": 1,
+  "createdAt": {
+    "$date": "2024-07-15T11:30:47.799Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T11:30:47.799Z"
+  },
+  "_class": "com.example.project_java_jwt.Entity.User"
+}]

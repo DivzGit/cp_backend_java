@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "66c71747f1a6742ea64ec1ec"
+  },
+  "filed_name": "Employees Or People",
+  "created_at": {
+    "$date": "2024-08-22T10:47:35.037Z"
+  },
+  "updated_at": {
+    "$date": "2024-08-22T10:50:31.690Z"
+  },
+  "_class": "com.okr_mis.spring.jwt.mongodb.models.OrganizationGroupMaster"
+},
+{
+  "_id": {
+    "$oid": "66c71763f1a6742ea64ec1ed"
+  },
+  "filed_name": "Sales",
+  "created_at": {
+    "$date": "2024-08-22T10:48:03.860Z"
+  },
+  "_class": "com.okr_mis.spring.jwt.mongodb.models.OrganizationGroupMaster"
+},
+{
+  "_id": {
+    "$oid": "66c856356d61c2f254b7efab"
+  },
+  "filed_name": "Learning & Innovation",
+  "created_at": {
+    "$date": "2024-08-22T10:48:03.860Z"
+  },
+  "_class": "com.okr_mis.spring.jwt.mongodb.models.OrganizationGroupMaster"
+},
+{
+  "_id": {
+    "$oid": "66c856496d61c2f254b7efac"
+  },
+  "filed_name": "R&D",
+  "created_at": {
+    "$date": "2024-08-22T10:48:03.860Z"
+  },
+  "_class": "com.okr_mis.spring.jwt.mongodb.models.OrganizationGroupMaster"
+}]
